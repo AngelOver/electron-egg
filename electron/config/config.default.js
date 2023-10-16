@@ -9,6 +9,8 @@ module.exports = (appInfo) => {
 
   const config = {};
 
+
+
   /**
    * 开发者工具
    */

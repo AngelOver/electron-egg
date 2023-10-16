@@ -1,5 +1,5 @@
 {
-  "name": "ee",
+  "name": "1chat",
   "version": "3.7.0",
   "description": "A fast, desktop software development framework",
   "main": "main.js",
@@ -41,7 +41,7 @@
     "electron-egg",
     "ElectronEgg"
   ],
-  "author": "哆啦好梦, Inc <530353222@qq.com>",
+  "author": "哆啦好梦, Inc <2424123@qq.com>",
   "license": "Apache",
   "devDependencies": {
     "@electron/rebuild": "^3.2.13",
