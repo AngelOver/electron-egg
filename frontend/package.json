@@ -1,5 +1,5 @@
 {
-  "name": "ee",
+  "name": "1Chat客户端",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite --host --port 8080",
